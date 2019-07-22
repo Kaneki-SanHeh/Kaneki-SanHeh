@@ -1,0 +1,1 @@
+[null,{"name":"onJoin","temp":"newdud","event-type":"6","actions":[{"info":"1","find":"Member","storage":"1","varName":"mem","name":"Find Role"},{"member":"2","varName2":"newdud","role":"3","varName":"mem","name":"Add Member Role"}]},{"name":"onOn","temp":"","event-type":"1","actions":[{"gameName":"Banning skids.","gameLink":"","name":"Set Bot Game"}]}]
